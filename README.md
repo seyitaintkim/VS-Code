@@ -1,3 +1,5 @@
+<img src="./img/vscode.svg" height="150">
+
 # VS Code Tricks and Tips
 
 This is a bare-bones guide to using your favorite text editor. I hope to bring some tips and tricks that we can all utilize during our LA Cohort 37! If you have suggestions, please make a pull request and I'll try to figure out how to use git. **⚠️ I AM BY NO MEANS AN EXPERT! ⚠️** Everything on this guide is a collection of resources I've accumulated and filtered over the last few weeks.
@@ -74,9 +76,13 @@ I believe for CLI's, global installations are used to call the specified command
 - `~/.vscode` for extensions and `Applications/Visual Studio Code.app/Contents/`
 - `C:\users\{username}\AppData\Local\Programs\Microsoft VS Code`
 
-## Ok, how do I actually set up Airbnb Config?
+## First Steps
 
-Here's **[relatively recent Medium Article](https://medium.com/javascript-in-plain-english/set-up-react-js-with-eslint-prettier-and-airbnb-cc015363a7c7)** and **[a Youtube video](https://www.youtube.com/watch?v=SydnKbGc7W8&t=3s)**. I'll be documenting the steps I have and will take as succintly and clearly as possible.
+Open up your VS Code, and press <span color="red">⇧⌘P</span> to bring up the command palette. This is your most useful command: if you ever get lost, bring up the command palette and start typing. VS Code will match it and show you a list of results. Go to
 ![alt](./img/editor-config1.png)
 ![alt](./img/editor-config2.png)
 ![alt](./img/editor-config3.png)
+
+## Ok, how do I actually set up Airbnb Config?
+
+Here's **[relatively recent Medium Article](https://medium.com/javascript-in-plain-english/set-up-react-js-with-eslint-prettier-and-airbnb-cc015363a7c7)** and **[a Youtube video](https://www.youtube.com/watch?v=SydnKbGc7W8&t=3s)**. I'll be documenting the steps I have and will take as succintly and clearly as possible.
