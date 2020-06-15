@@ -77,6 +77,6 @@ I believe for CLI's, global installations are used to call the specified command
 ## Ok, how do I actually set up Airbnb Config?
 
 Here's **[relatively recent Medium Article](https://medium.com/javascript-in-plain-english/set-up-react-js-with-eslint-prettier-and-airbnb-cc015363a7c7)** and **[a Youtube video](https://www.youtube.com/watch?v=SydnKbGc7W8&t=3s)**. I'll be documenting the steps I have and will take as succintly and clearly as possible.
-![alt]("./img/editor-config1.png")
-![alt]("./img/editor-config2.png")
-![alt]("./img/editor-config3.png")
+![alt](./img/editor-config1.png)
+![alt](./img/editor-config2.png)
+![alt](./img/editor-config3.png)
