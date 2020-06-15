@@ -27,13 +27,13 @@ Microsoft's [official guide](https://code.visualstudio.com/docs/introvideos/basi
 
 ## 👍 Personal Extension List
 
-####Top 3
+###Top 3
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Needed for Airbnb config
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format on save 😍
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - press a hotkey to check your code
 
-####Utility
+###Utility
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - for browser rendering
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - needed for remote pairing
@@ -41,11 +41,11 @@ Microsoft's [official guide](https://code.visualstudio.com/docs/introvideos/basi
 - [Quick and Simple Text Selection](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-quick-select) - powerful ways to select without using the mouse
 - [Bracket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select) - this does one thing well: select inside brackets
 
-####UI
+###UI
 
 - [Babel Javascript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - alternative highlighting syntax
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - popular colorful icons to visually distinguish
 
 ## Ok, how do I really set up Airbnb Config?
 
-Here's **[Relatively recent Medium Article](https://medium.com/javascript-in-plain-english/set-up-react-js-with-eslint-prettier-and-airbnb-cc015363a7c7)** and **[Youtube](https://www.youtube.com/watch?v=SydnKbGc7W8&t=3s)**. You don't need to create react app (I've only ran the command a couple of times) to completely set up an airbnb linting config. I'll try to be as succint as possible, and hopefully, you'll have your perfect combination ready to go so you can focus on the code.
+Here's **[relatively recent Medium Article](https://medium.com/javascript-in-plain-english/set-up-react-js-with-eslint-prettier-and-airbnb-cc015363a7c7)** and **[a Youtube video](https://www.youtube.com/watch?v=SydnKbGc7W8&t=3s)**. You don't need to create react app (I've only ran the command a couple of times) to completely set up an airbnb linting config. I'll try to be as succint as possible, and hopefully, you'll have your perfect combination ready to go so you can focus on the code.
