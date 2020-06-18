@@ -306,7 +306,7 @@ Not to overwhelm you, but these are the commands that someone taught me to use w
 - I unmapped the default command of ⌘G that was bound to `Find next/previous` by right clicking > Remove Keybinding.
 - I searched "Go to line" in the Keyboard Shortcuts section, and overwrote the default ⌃G to ⌘G for my convenience.
 - You can also do this by going to `Preferences: Open Keyboard Shorcuts (JSON)`. Search for this with your command palette.
-- `keybindings.json`:
+- Go to `keybindings.json`, and paste it in with the "-" in front of the command value to remove the keyboard binding.
 
 ```
   {
@@ -321,6 +321,17 @@ Not to overwhelm you, but these are the commands that someone taught me to use w
   },
 ```
 
+- This binds "go to line" (from ⌃G) to ⌘G with no conflict.
+
+```
+  {
+    "key": "cmd+g",
+    "command": "workbench.action.gotoLine"
+  },
+```
+
+- Now you can reach for the hotkey more easily!
+
 ## Using Snippets
 
 #### Built-in snippets
@@ -334,4 +345,4 @@ Go to `Preferences > Configure User Snippets` and click `javascript.json` from t
 
 ## More to come...
 
-This is just a small slice of how powerful VS Code is. I honestly spent more time on VS Code and tweaking with the settings than I would like. For me, it's imperative that I utilize all the shortcuts as much as possible, and keep my typing (and my mouse usage) as low as possible. For you, you may not need to go all-in, so just take whatever part you need to be more productive and stress-free.
+This is just a small slice of how powerful VS Code is. I honestly spent more time on VS Code and tweaking with the settings than I would have liked. However, for me perseonally, it's imperative that I utilize all the shortcuts as much as possible, and keep my typing (and my mouse usage) as less as possible. You may not need to go all-in, so just take whatever part you need to be more productive and stress-free.
